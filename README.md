@@ -20,7 +20,7 @@ The columns present in the dataset are:
 
 # Project Highlights/Steps Followed
 The steps followed are:
-1. Import the dataset from the kaggle using pandas.
+1. Imported the dataset from the kaggle using pandas.
 2. Gather some basic information like datatype,shape,size,column name and info for the dataset.
 3. Perform cleaning of the dataset missing values and duplicate values.Rigorous efforts were dedicated to identifying and eliminating duplicate records, ensuring the integrity and accuracy of the dataset.
 4. Data visualization to get a better understanding using Matplotlib and Seaborn.Visual Representation of Data Completeness- Utilizing a heat-map visualization, provided a clear depiction of null values within the      dataset, aiding in the understanding of data completeness.
