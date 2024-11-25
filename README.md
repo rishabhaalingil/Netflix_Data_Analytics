@@ -38,7 +38,7 @@ The steps followed are:
 9. Determination of Maximum Duration: The maximum duration of movies and shows on Netflix was determined, offering insights into the diversity of content formats available.
 10. Country with the Highest TV Show Count: Through rigorous analysis, the country with the highest count of TV shows was identified, reflecting Netflix's global content distribution strategy.
 
-# Key Insights
+# Significance
 Through this detailed EDA, several key insights can emerge:
 1. Trends in Content: Analyzing release years can show how Netflix has expanded its library over time, potentially correlating with its global growth.
 2. Genre Popularity: Understanding which genres are most represented can guide future content acquisition and production efforts.
